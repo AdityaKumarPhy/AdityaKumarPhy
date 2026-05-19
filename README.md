@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- HEADER BANNER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&text=Aditya%20|%20Physics%20%26%20Code&fontColor=ffffff&fontSize=40)
 
-<!--
-**AdityaKumarPhy/AdityaKumarPhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=MSc+Physics+%40;Science+Creator+%40+PhysicsVoyage)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🔭 Researching **quantum many-body systems**
+- 💻 Building computational physics tools in **Python & C++**
+- 📺 Science documentary creator → [@PhysicsVoyage](https://youtube.com/@PhysicsVoyage)
+- ✍️ Writing publicly → [Code and Quanta](https://codeandquanta.substack.com)
+
+---
+
+<!-- GITHUB STATS -->
+![Stats](https://github-readme-stats.vercel.app/api?username=AdityaKumarPhy&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumarPhy&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- STREAK -->
+![Streak](https://streak-stats.demolab.com?user=AdityaKumarPhy&theme=tokyonight&hide_border=true)
