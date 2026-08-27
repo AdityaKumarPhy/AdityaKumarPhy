@@ -46,20 +46,14 @@ I use programming as a scientific tool to model physical systems, visualize comp
 - Numerical solutions of differential equations
 - Physics simulations in Python
 - Quantum mechanics visualization
-- Electrodynamics and wave systems
-- Chaos and nonlinear dynamics
 - Scientific computing workflows
-- Physics communication through YouTube
+
 
 ---
 
-## Research-Oriented Projects (Under Construction)
+## Research-Oriented Projects 
 
-1. Project 1 — 2D Ising Model with Monte Carlo
-2. Project 2 — Exact Diagonalization of 1D Heisenberg Spin Chain
-3. Project 3 — TDSE Solver: Wavepacket Dynamics and Tunneling
-4. Project 4 — Lennard-Jones Molecular Dynamics Simulation
-5. Project 5 — Variational Monte Carlo for Quantum Ground States
+1. Project 1 — Build a Quantum Simulator solving Schrodinger Equations for different functions 
 
 ---
 
@@ -101,6 +95,7 @@ I use programming as a scientific tool to model physical systems, visualize comp
 
 I aim to bridge:
 - theoretical understanding,
+- Quantum world to the Industry
 - computational experimentation,
 - and scientific communication.
 
@@ -128,9 +123,5 @@ I aim to bridge:
 Computational Physics
 Quantum Mechanics
 Scientific Computing
-Mathematical Modeling
-Complex Systems
 Scientific Visualization
 Numerical Methods
-Chaos Theory
-Physics Communication
